@@ -3,7 +3,9 @@
 Problemática:
 
 Em nossa loja, realizamos vendas em real de produtos importados. Entretanto, as últimas variações cambiais têm preocupado a gerência. Para termos maior controle, precisamos ter dados de vendas em dólar e em euro. No link abaixo estará um arquivo do Google Planilhas contendo a data, produto vendido, preço unitário em real, quantidade vendida e o faturamento em real.
+
 [Faturamento_original.xlsx](https://github.com/user-attachments/files/16314866/Faturamento_original.xlsx)
+
 [Faturamento_atualizado.xlsx](https://github.com/user-attachments/files/16314869/Faturamento_atualizado.xlsx)
 
 O ambiente utilizado para a execução deste Teste foi o Compilador Geany.
