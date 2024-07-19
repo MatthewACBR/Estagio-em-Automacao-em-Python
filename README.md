@@ -9,7 +9,8 @@ Em nossa loja, realizamos vendas em real de produtos importados. Entretanto, as 
 [Faturamento_atualizado.xlsx](https://github.com/user-attachments/files/16314869/Faturamento_atualizado.xlsx)
 
 O ambiente utilizado para a execução deste Teste foi o Compilador Geany.
-import pandas as pd
+import pandas as pd.
+
 #Código criado e desenvolvido por Matheus Abreu de Campos.
 #Utilizado o Geany para a compilação e execução do teste
 
