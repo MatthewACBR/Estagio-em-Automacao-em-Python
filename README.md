@@ -2,7 +2,7 @@
 
 Problemática:
 
-Em nossa loja, realizamos vendas em real de produtos importados. Entretanto, as últimas variações cambiais têm preocupado a gerência. Para termos maior controle, precisamos ter dados de vendas em dólar e em euro. No link abaixo estará um arquivo do Google Planilhas contendo a data, produto vendido, preço unitário em real, quantidade vendida e o faturamento em real.
+Em nossa loja, realizamos vendas em real de produtos importados. Entretanto, as últimas variações cambiais têm preocupado a gerência. Para termos maior controle, precisamos ter dados de vendas em dólar e em euro.
 
 [Faturamento_original.xlsx](https://github.com/user-attachments/files/16314866/Faturamento_original.xlsx)
 
@@ -10,8 +10,6 @@ Em nossa loja, realizamos vendas em real de produtos importados. Entretanto, as 
 
 O ambiente utilizado para a execução deste Teste foi o Compilador Geany.
 import pandas as pd.
-
-#Código criado e desenvolvido por Matheus Abreu de Campos.
 #Utilizado o Geany para a compilação e execução do teste
 
 # Caminho do arquivo original
