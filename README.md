@@ -1,4 +1,4 @@
-[Estagio em Automacao em Python.txt](https://github.com/user-attachments/files/16314889/Estagio.em.Automacao.em.Python.txt)# Estagio-em-Automacao-em-Python
+# Estagio-em-Automacao-em-Python
 
 Problemática:
 
